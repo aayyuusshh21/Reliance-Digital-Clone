@@ -1,5 +1,5 @@
 import "../Components/Navbar.css";
-import Logo from "./Logo.jpg";
+import Logo from "./Logo.png";
 import { Link, useNavigate } from "react-router-dom";
 import { BsSearch, BsTruck, BsBag } from "react-icons/bs";
 import { AiOutlineUser, AiOutlineHeart } from "react-icons/ai";
