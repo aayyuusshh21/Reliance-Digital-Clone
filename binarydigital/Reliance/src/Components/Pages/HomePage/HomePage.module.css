@@ -1,0 +1,100 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(0, 51, 128);
+    padding: 1% 1% 1% 1%;
+    margin-bottom: 1%;
+}
+
+.header > * {
+    text-decoration: none;
+    color: white;
+    margin: 0px 50px;
+}
+
+.header > img {
+    width: 25%;
+}
+
+.header > * > img {
+    width: 15%;
+}
+
+.header > * >div {
+    margin-left: 20px;
+}
+
+.header > *:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.top_margin{
+    margin-top: 11%;
+    
+}
+
+.catName{
+    font-size: 10px;
+}
+
+@media screen and (min-width: 300px) {
+    .top_margin{
+        margin-top: 13%;
+    }
+    .header > img:nth-child(1){
+        display: none;
+    }
+    .header > a:nth-child(5){
+        display: none;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    .top_margin{
+        margin-top: 10%;
+    }
+    .header > img:nth-child(1){
+        display: none;
+    }
+    .header > a:nth-child(5){
+        display: block;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .top_margin{
+        margin-top: 10%;
+    }
+    .header > img:nth-child(1){
+        display: block;
+    }
+    .header > a:nth-child(5){
+        display: block;
+    }
+}
+
+@media screen and (min-width: 930px) {
+    .top_margin{
+        margin-top: 9%;
+    }
+    .header > img:nth-child(1){
+        display: block;
+    }
+    .header > a:nth-child(5){
+        display: block;
+    }
+}
+
+@media screen and (min-width: 1025px) {
+    .top_margin{
+        margin-top: 6%;
+    }
+    .header > img:nth-child(1){
+        display: block;
+    }
+    .header > *:nth-child(5){
+        display: block;
+    }
+}
+

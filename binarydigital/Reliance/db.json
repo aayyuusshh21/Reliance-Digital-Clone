@@ -1,0 +1,582 @@
+{
+    "auth": [
+      {
+        "id": 1,
+        "email": "alok@gmail.com",
+        "password": "123"
+      },
+      {
+        "email": "aloksah@gmail.com",
+        "password": "123",
+        "id": 2
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "product_name": "cello VENICE FRIDGE WATER BOTTLES 1000 ml Bottle",
+        "rating": "4.5",
+        "price": "149",
+        "original_price": "500",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_name": "MILTON Executive Lunch 3 Containers Lunch Box",
+        "rating": "4.0",
+        "price": "199",
+        "original_price": "500",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_name": "Flipkart SmartBuy Classic Fridge Bottle - 1000ml - Plas...",
+        "rating": "4.3",
+        "price": "651",
+        "original_price": "1000",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "product_name": "MILTON Executive Lunch 3 Containers Lunch Box",
+        "rating": "4.4",
+        "price": "299",
+        "original_price": "500",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "product_name": "MILTON Executive 3 Containers Lunch Box",
+        "rating": "4.4",
+        "price": "499",
+        "original_price": "1000",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "product_name": "WONDERCHEF Power Induction Bottom Cookware Set",
+        "rating": "4.4",
+        "price": "1249",
+        "original_price": "1500",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "product_name": "HAWKINS CONTURA BLACK 5 L Pressure Cooker",
+        "rating": "4.0",
+        "price": "1799",
+        "original_price": "2000",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "product_name": "Signoraware Director Glass 3 Containers Lunch Box",
+        "rating": "3.8",
+        "price": "641",
+        "original_price": "800",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "product_name": "Butterfly Friendly 5 L Pressure Cooker",
+        "rating": "3.8",
+        "price": "599",
+        "original_price": "800",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "product_name": "HAWKINS Stainless Steel HSS3T 3 L Induction Bottom Pres...",
+        "rating": "3.8",
+        "price": "2206",
+        "original_price": "2500",
+        "category":"equipment",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ]
+      },
+      {
+        "id":11,
+        "product_name":"POCO X3(Cobalt Blue, 128 GB)",
+        "rating": "4.8",
+        "price": "15499",
+        "original_price": "20000",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"mobile",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "device_ram":3,
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            
+            "feature1":"3 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":12,
+        "product_name":"POCO M3(Power Black, 128 GB)",
+        "rating": "3.8",
+        "price": "11099",
+        "original_price": "14000",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"mobile",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "device_ram":4,
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            
+            "feature1":"4 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":13,
+        "product_name":"POCO C3(Arctic Blue, 128 GB)",
+        "rating": "2.3",
+        "price": "7999",
+        "original_price": "10000",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"mobile",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "device_ram":6,
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            
+            "feature1":"6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":14,
+        "product_name":"BoAt Stone 1500 40 W Bluetooth Speaker",
+        "rating": "4.3",
+        "price": "4999",
+        "original_price": "10000",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"electronic",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":15,
+        "product_name":"BoAt Rugby 10 W Portable Bluetooth Speaker",
+        "rating": "4.3",
+        "price": "999",
+        "original_price": "1200",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"electronic",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":16,
+        "product_name":"BoAt Stone Grenade 5 W Portable Bluetooth Speaker",
+        "rating": "4.3",
+        "price": "999",
+        "original_price": "1300",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"electronic",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":17,
+        "product_name":"LEE Skinny Men Dark Blue",
+        "rating": "4.7",
+        "price": "1099",
+        "original_price": "2300",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"television",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":18,
+        "product_name":"METRONAUT Slim Men Grey Jeans",
+        "rating": "4.0",
+        "price": "560",
+        "original_price": "1000",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"television",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":19,
+        "product_name":"allen solly Solid Men Polo Neck Dark Blue T-Shirt",
+        "rating": "4.3",
+        "price": "499",
+        "original_price": "1000",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"television",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":20,
+        "product_name":"killer Slim Men Black Jeans",
+        "rating": "3.3",
+        "price": "1249",
+        "original_price": "1500",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"television",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+            "feature2":"16.94 cm Full HD+ Display",
+            "feature3":"64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+            "feature4":"6000 mAh Lithium-ion Polymer Battery",
+            "feature5":"Qualcom Snapdragon 732G Processor",
+            "feature6":"1 year of Handset and 6 months of Accessories"
+          }
+          
+        ]
+      },
+      {
+        "id":21,
+        "product_name":"realme 80 cm (32 inch) HD Ready LED Smart Android TV",
+        "rating": "2.8",
+        "price": "13949",
+        "original_price": "15000",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"appliance",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"Netflix|Prime video|Disney+hotstar|youtube",
+            "feature2":"Operating System:Android",
+            "feature3":"HD Ready 1366*768 pixel",
+            "feature4":"24 watt speaker output",
+            "feature5":"60 hz refresh rate",
+            "feature6":"3*HDMI|2*USB",
+            "feature7":"1 year domestic warranty"
+          }
+          
+        ]
+      },
+      {
+        "id":22,
+        "product_name":"Mi 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver",
+        "rating": "1.4",
+        "price": "14449",
+        "original_price": "16000",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"appliance",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"Netflix|Prime video|Disney+hotstar|youtube",
+            "feature2":"Operating System:Android",
+            "feature3":"HD Ready 1366*768 pixel",
+            "feature4":"24 watt speaker output",
+            "feature5":"60 hz refresh rate",
+            "feature6":"3*HDMI|2*USB",
+            "feature7":"1 year domestic warranty"
+          }
+          
+        ]
+      },
+      {
+        "id":23,
+        "product_name":"SAMSUNG 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition",
+        "rating": "4.7",
+        "price": "16649",
+        "original_price": "20000",
+        "img": "https://www.reliancedigital.in/medias/iPhone-14-Producst-Carousel-27-10-2022.jpg?context=bWFzdGVyfGltYWdlc3wzMzgxMHxpbWFnZS9qcGVnfGltYWdlcy9oYzcvaGQxLzk5MTM3NzcxMjc0NTQuanBnfDA0NzFkZmIwYjVlMWZjZjUxZGY5MjA3NmVlMTdiNTY0ZjhmODU1NjkxY2Y2NDRjNjUxOTQ2MTc5Nzg5MjQxZjk",
+        "category":"appliance",
+        "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+        "offers": [
+          {
+            "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+            "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+            "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+            "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+          }
+        ],
+        "features":[
+          {
+            "feature1":"Netflix|Prime video|Disney+hotstar|youtube",
+            "feature2":"Operating System:Android",
+            "feature3":"HD Ready 1366*768 pixel",
+            "feature4":"24 watt speaker output",
+            "feature5":"60 hz refresh rate",
+            "feature6":"3*HDMI|2*USB",
+            "feature7":"1 year domestic warranty"
+          }
+          
+        ]
+      }
+    ]
+  }
