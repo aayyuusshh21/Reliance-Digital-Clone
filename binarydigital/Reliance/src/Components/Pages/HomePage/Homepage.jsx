@@ -56,6 +56,12 @@ const Homepage = () => {
                     product.filter((items)=> items.category === "equipment").map((item) => <ProductCard {...item} key={item.id} />)
                 }
             </Grid>
+            <BootstrapCarousel></BootstrapCarousel>
+            <Grid container style={{padding: "3%"}}>
+                {
+                    product.filter((items)=> items.category === "equipment").map((item) => <ProductCard {...item} key={item.id} />)
+                }
+            </Grid>
             
         </div>
         <Footer/>

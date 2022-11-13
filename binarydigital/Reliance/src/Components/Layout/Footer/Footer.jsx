@@ -22,7 +22,7 @@ const Footer = () => {
                 <Link>Contact Us</Link>
                 <Link>About Us</Link>
                 <Link>Careers</Link>
-                <Link>Flipkart Stories</Link>
+                <Link>Reliance Stories</Link>
                 <Link>Press</Link>
             </Grid>
             <Grid item xs={3} md={3} lg={2} className={styles.root1}  spacing={2}>
