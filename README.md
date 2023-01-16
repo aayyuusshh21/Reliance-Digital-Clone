@@ -8,7 +8,7 @@ Reliance Digital is an online e-commerce website for Electronics and electrical 
 # Highlights
 
 Solo Project.\
-E-Commerce website based on medicine and health-care product.
+E-Commerce website based on Electronical product.
 
 # To Run Locally
 ## Clone the project
