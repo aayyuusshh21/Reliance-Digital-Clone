@@ -1,4 +1,4 @@
-# Reliance Digital
+# Reliance Digital Clone
 Reliance Digital is an online e-commerce website for Electronics and electrical accessories. Homepage and product page are some of the features
 
 ![Screenshot from 2023-01-16 17-50-06](https://user-images.githubusercontent.com/107826861/212677079-4f694639-7dd2-414b-95a8-02e290f5e9a7.png)
